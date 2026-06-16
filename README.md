@@ -1,2 +1,25 @@
-# 7201ec18-government-contracts-pricing
-Dynamic pricing, tiered packages, discount logic, and branded quote PDFs. Close deals faster with instant accurate quotes.
+# Government & Contracts Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E7sLh1BgaUg880Ved0p0C)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E7sLh1BgaUg880Ved0p0C)
+
